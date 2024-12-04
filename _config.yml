@@ -3,12 +3,23 @@ description: Welcome to my personal website
 author: olucvolkan
 theme: jekyll-theme-minimal
 
+# Repository info
+repository: olucvolkan/my-first-agent
 baseurl: "/my-first-agent"
 url: "https://olucvolkan.github.io"
 
+# Social links
 social:
   github: olucvolkan
 
+# Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/olucvolkan/my-first-agent
+  owner_url: https://github.com/olucvolkan
+  repository_name: my-first-agent
+  owner_name: olucvolkan
