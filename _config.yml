@@ -1,0 +1,14 @@
+title: My Personal Website
+description: Welcome to my personal website
+author: olucvolkan
+theme: jekyll-theme-minimal
+
+baseurl: "/my-first-agent"
+url: "https://olucvolkan.github.io"
+
+social:
+  github: olucvolkan
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
